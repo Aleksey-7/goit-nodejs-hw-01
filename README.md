@@ -1,13 +1,12 @@
-# goit-nodejs-hw-01
-
 # Description
 
 This application is the contacts manager for work with your contacts.. You can
 get all contacts, get contact by id, add contact and remove contact by id.
 
-# Technologies used
+# Node.JS used
 
-Node.JS Node.JS base module "fs" Node.JS base module "path"
+1.  Node.JS base module "fs";
+2.  Node.JS base module "path"
 
 # Screenshorts
 
